@@ -2,13 +2,14 @@
 
 ![Youtube_Python_Analysis](https://user-images.githubusercontent.com/77911412/183277722-c19bf693-2f46-43e8-be82-c65905bb8a4a.png)
 
+
 ## Table of Contents 
 *[*technologies](#Technologies) 
 *[*setup](#setup)
 
 ## General information
-This Youtube analysis that was done:
-1. The youtube sentiment polarity(positive and negative)
+This Youtube Python Analysis that was done shows:
+1. Youtube sentiment polarity(positive and negative)
 2. Emoji analysis
 3. Most Liked Category
 4. Most Engaging Audiences
