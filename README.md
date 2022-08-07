@@ -4,7 +4,7 @@
 
 ## Table of Contents 
 (#General Information)
-(#Technologies) 
+*[*technologies](#Technologies) 
 *[*setup](#setup)
 
 ## General information
