@@ -5,7 +5,7 @@
 ## Table of Contents 
 (#General Information)
 (#Technologies) 
-(#setup)
+*(#setup)
 
 ## General information
 This Youtube analysis that was done:
