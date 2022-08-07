@@ -9,12 +9,12 @@
 
 ## General information
 This Youtube analysis that was done:
-1.The youtube sentiment polarity(positive and negative)
-2.Emoji analysis
-3.Most Liked Category
-4.Most Engaging Audiences
-5.Trending Videos
-6.Checking to see of punctuations affect youtube algorithm.
+1. The youtube sentiment polarity(positive and negative)
+2. Emoji analysis
+3. Most Liked Category
+4. Most Engaging Audiences
+5. Trending Videos
+6. Checking to see of punctuations affect youtube algorithm.
 
 ## Technologies
 Project is created with:
