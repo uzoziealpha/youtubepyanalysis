@@ -3,8 +3,8 @@
 ![Youtube_Python_Analysis](https://user-images.githubusercontent.com/77911412/183277722-c19bf693-2f46-43e8-be82-c65905bb8a4a.png)
 
 ## Table of Contents 
-*[General Information] (#general-info)
-*[Technologies] (#technologies)
+*[General Information]
+*[Technologies] 
 *[Setup](#setup)
 
 ## General information
